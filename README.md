@@ -1,6 +1,6 @@
 # Hi! You can call me 南清/Nan-ching!
 - ###  OS: Windows/MacOS
-- ### Language: ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+- ### Language: ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 </p>
 
 ---
