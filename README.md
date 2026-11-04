@@ -12,8 +12,8 @@
 - You’re welcome to submit issues or start discussions for my project; I’m glad to learn and improve. **Let’s build more useful things!**
 
 ### About Issues Submitted Using AI
-1. 有时会使用AI起草+人工复核的方式为一些复杂项目提交Issue以确保对于实测结果总结的全面性，如果用语AI味很重还请海涵🙇。
-2. 我了解部分Issue的提交存在使用AI提交对内容注水导致核心内容不够明确且语义繁杂的情况，因此会在提交前的人工复核阶段尽可能去除这部分影响，包括但不限于人工重写或剔除不符合本人实际观点的部分。
-3. 本人希望项目所有者对AI内容享有知情权，因此在使用AI编写的Issue下方会添加 [![WARN-LLM GENERATED](https://img.shields.io/badge/WARN-LLM%20GENERATED-FF6347)](https://github.com/40ants/ai-badges) 徽章及相关说明以告知审阅者该Issue包含AI生成的内容。
-4. 我理解自己对于提交的任何内容负有完全的责任，因此不会使用AI工具批量提交任何内容。所有Issue的提交均为本人在实际使用该项目时遇到的问题，也会在提交前复核内容的真实性。
-5. 以上声明不存在任何AI生成内容。
+1. In some complex projects, I occasionally use AI for drafting followed by manual review when submitting issues, in order to ensure the comprehensiveness of summaries of actual test results. I ask for your understanding if the phrasing sounds strongly AI-generated.
+2. I am aware that some issues have been submitted using AI with padded content, resulting in core content that is insufficiently clear and semantically verbose. Therefore, during the manual review stage before submission, I will make every effort to eliminate such effects, including but not limited to manually rewriting content or removing parts that do not reflect my actual views.
+3. I believe that project owners have the right to be informed about AI-generated content. Accordingly, for issues drafted with AI, I will add the following badge and a related explanatory note below the issue to inform reviewers that the issue contains AI-generated content: [![WARN-LLM GENERATED](https://img.shields.io/badge/WARN-LLM%20GENERATED-FF6347)](https://github.com/40ants/ai-badges) .
+4. I understand that I bear full responsibility for any content I submit. Therefore, I will not use AI tools to submit any content in bulk. All issues are submitted based on problems I personally encountered while actually using the project, and I will verify the authenticity of the content before submission.
+5. No part of the above statement is AI-generated.
