@@ -9,7 +9,7 @@
 - **Application**: Andriod, WearOS, Windows
 
 ### Notes：
-- You’re welcome to submit Issues, PR or start discussions for my project; I’m glad to learn and improve. **Let’s build more useful things!**
+- Feel free to submit Issues, PR or start discussions for my project; I’m glad to learn and improve. **Let’s build more useful things!**
 
 ### About Issues Submitted Using AI
 1. In some complex projects, I occasionally use AI for drafting followed by manual review when submitting issues, in order to ensure the comprehensiveness of summaries of actual test results. I ask for your understanding if the phrasing sounds strongly AI-generated🙇.
